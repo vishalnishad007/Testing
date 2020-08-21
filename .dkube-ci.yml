@@ -1,2 +1,1 @@
-docker_envs:           #precedence 1
-  - smizy/scikit-learn:0.23-alpine
+Dockerfile: Dockerfile
