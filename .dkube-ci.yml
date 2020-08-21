@@ -3,5 +3,3 @@ conda_env:             #precedence 3
   
 docker_envs:
   - ocdr/custom-training:latest
-
-Dockerfile: Dockerfile #precedence 2
